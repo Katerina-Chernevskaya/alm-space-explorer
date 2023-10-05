@@ -2,7 +2,7 @@
 
 Ready your developer spaceships, voyagers! It's time to explore the exciting universe of Application Lifecycle Management (ALM) within the Power Platform and Dynamics 365 galaxies. Buckle up, as this workshop propels you through the vibrant nebulas of managing apps and data, from inception to deployment across numerous realms of development, testing, and production!
 
-<img src="https://github.com/Katerina-Chernevskaya/alm-odyssey/blob/d3df2fcc19e3c20a1461d3bec129351d7b7cb211/assets/roadmap.png" width="800">
+<img src="https://github.com/Katerina-Chernevskaya/alm-space-explorer/blob/0a862149963c106e2147b379e2ce9a927688bad8/assets/roadmap.png" width="800">
 
 ## Your Star Map of Learnings:
 
