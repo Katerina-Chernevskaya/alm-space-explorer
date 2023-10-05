@@ -81,6 +81,7 @@ Follow the below steps to set your Azure DevOps organization prepared in advance
 - in the question `What is your email address?` write your email address from the tenant for which you make the request
 - in the question `What is the name of your Azure DevOps Organization?` write the link to your Azure DevOps organizatopn (like https://dev.azure.com/KaterinaChernevskaya)
 _To locate this link, click on the organization name associated with your newly created project and copy the URL from the address bar._
+
 ![AzureDevOpsProject](./assets/prerequisites-3.png)
 - in the question `Are you requesting a parallelism increase for Public or Private projects?` select `Private`
 
